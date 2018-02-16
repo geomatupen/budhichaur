@@ -1,0 +1,19 @@
+
+.input-group-btn .btn{
+    border-right: 5px solid #1f6e95!important;
+    border-top: 5px solid #1f6e95!important;
+    border-bottom: 5px solid #1f6e95!important;
+}
+
+.form-control, .select2-search input[type="text"]{
+    height: 44px;
+    border-left: 5px solid #1f6e95!important;
+    border-top: 5px solid #1f6e95!important;
+    border-bottom: 5px solid #1f6e95!important;
+    border-radius: unset!important;
+}
+.btn-search{
+    background: #bd0912 !important;
+    color: #fff !important;
+    padding: 7px 15px !important;
+}

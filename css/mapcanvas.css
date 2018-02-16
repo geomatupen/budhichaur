@@ -1,0 +1,65 @@
+/*
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 40px;
+}
+*/
+#map {
+	height: 570px; width: 100%; margin-bottom: 0px;
+}
+
+.info-window {
+	font-family: 'Montserrat', sans-serif;
+}
+.info-content {
+	color: #999;
+}
+
+
+/**{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+#map {
+	 height: 510px; margin-bottom: 30px;
+	 }*/
+/*#iw_container .iw_title {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+
+#iw_container{
+	z-index: 9999;
+	position: absolute;
+	right: 100px;
+	top: 100px;
+}
+.iw_content {
+	padding: 15px 15px 15px 0;
+}
+
+
+.infoWindow{
+
+	}*/
+
+
+/* 
+* Design by Robert Mayer:https://goo.gl/CJ7yC8
+*
+*I intentionally left out the line that was supposed to be below the subheader simply because I don't like how it looks.
+*
+* Chronicle Display Roman font was substituted for similar fonts from Google Fonts.
+*/
+/*PEN STYLES*/

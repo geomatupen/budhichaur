@@ -1,0 +1,245 @@
+
+
+/********************************/
+/*       Nav      */
+/********************************/
+#navbar{
+    background-color: white;
+
+}
+
+
+.logo {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    float: left;
+    padding-left: 40px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+
+.logo-image{
+    margin-top: 5px;
+    width: 80px;
+    height: auto;
+    margin-bottom: 5px;
+}
+
+.navbar-header{
+    padding-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+strong{
+    font-family: 'Hind', sans-serif;
+    color: black;
+    font-size: 26px;
+    font-weight: 600;
+}
+
+#mainheadings{
+    color:#101010;
+    font-family: 'Hind', sans-serif;
+    padding-top:0;
+    font-size: 16px;
+}
+
+li{
+    padding-top: 20px;
+}
+
+#navli:active {
+    border-bottom: 2px solid #800000;
+}
+
+#navli:hover{
+    border-bottom: 2px solid #800000;
+}
+
+#navli{
+    font-weight:normal;
+    font-size: 18px;
+    font-style:normal;
+    font-family: 'Hind', sans-serif;
+    color: #0f0f0f;
+}
+
+.nav {
+    text-align: center;
+    color: #fff;
+    padding(20px null);
+    position(fixed, null 0px 0px 0px);
+    transition(transform 1s $ ease-in-out-quint);
+}
+
+.nav.hidden{
++transform(translateY(100%))
+}
+
+
+
+/*----------Banner-------------*/
+.banner{
+    height: 500px;
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),url('../images/banner.gif');
+    padding: 165px 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    vertical-align: center;
+    position: relative;
+}
+
+.section-title h1{
+    font-size: 28px;
+    color: #fff;
+}
+
+.banner p{
+    font-size: 16px;
+    color: #fff;
+    line-height: 25px;
+    margin-top: 0px;
+}
+
+/*----------Homepage Categories-------------*/
+.homepage-categories{
+    padding: 25px 0px;
+    background: #f9f9f9;
+}
+.tab_head{
+    text-align: center;
+}
+.tab_head i {
+    display: block;
+    font-size: 20px;
+    color:#000;
+}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover{
+    background: #1162BE;
+    border-radius: 5px;
+    border-color: transparent !important;
+    color: #fff;
+}
+.nav-tabs li a:hover,.nav-tabs li a:focus{
+    background:#1162BE;
+    border-color:transparent !important;
+    color:#fff;
+}
+.nav-tabs {
+    border-bottom: 1px solid transparent;
+}
+.nav-tabs>li{
+
+}
+
+.nav-tabs>col-md-2>li>a {
+    text-decoration: none !important;
+    background: #f5f5f5;
+    color: #000;
+    font-size: 14px;
+    line-height: 1.42857;
+    margin-right: 2px;
+    font-weight: 600;
+    transition: 0.5s ease;
+    padding: 15px;
+    margin: 5px 5px 1px 5px;
+    border: none;
+    border-radius: 2px;
+    box-shadow: 0 2px 5px 2px rgba(19, 35, 47, 0.3);
+}
+
+.cat {
+    text-decoration: none;
+    background: #f5f5f5;
+    color: #000;
+    font-size: 14px;
+    line-height: 1.42857;
+    margin-right: 2px;
+    font-weight: 600;
+    transition: 0.5s ease;
+    padding: 15px;
+    margin: -15px 50px 41px 5px;
+    border: none;
+    border-radius: 2px;
+    box-shadow: 0 2px 5px 2px rgba(19, 35, 47, 0.3);
+}
+.p{
+    text-decoration: none;
+}
+.cat1 {
+    text-decoration: none;
+    background: #f5f5f5;
+    color: #000;
+    font-size: 14px;
+    line-height: 1.42857;
+    margin-right: 2px;
+    font-weight: 600;
+    transition: 0.5s ease;
+    padding: 15px;
+    margin: -15px 30px 41px 5px;
+    border: none;
+    border-radius: 2px;
+    box-shadow: 0 2px 5px 2px rgba(19, 35, 47, 0.3);
+}
+.cat:hover {
+background: #1162BE;
+font-color: #fff;
+    }
+.cat1:hover {
+background: #1162BE;
+    }
+
+  .cat1 a:hover {
+color: #fff;
+    }  
+
+ .cat a:hover {
+color: #fff;
+    } 
+.categoryno{
+
+    font-size: 18px;
+}
+
+
+.nav-tabs strong:hover {
+    color: white;
+}
+.nav-tabs > li {
+    float: left;
+    margin-bottom: 15px;
+    margin-right: 15px;
+    width: 18%;
+}
+
+.tab_head i {
+    color: #000;
+    display: block;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+.nav>li>a>img{
+    height: 50px;
+}
+
+.svg{
+    border-color: black ;
+}
+.svg path {fill: #000;}
+
+
+.svg:hover path {
+    fill: #fff !important;
+}
+
+.svg{
+    height: 65px;
+}
+.nav-tabs li a:hover, .nav-tabs li a:focus {
+    color: #fff;   
+    text-decoration: none;
+}
+
+

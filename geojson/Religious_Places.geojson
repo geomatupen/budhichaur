@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID_1": 1, "OBJECTID": 32, "OID_": 0, "Name": "Sita Mahadev Mandir (near to bageswori)", "Type": "Temple", "Build_Type": null }, "geometry": { "type": "Point", "coordinates": [ 85.10174399229146, 27.495216113033223, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID_1": 4, "OBJECTID": 18, "OID_": 0, "Name": "Kalidevi Mandir", "Type": "Temple", "Build_Type": null }, "geometry": { "type": "Point", "coordinates": [ 85.150772254935703, 27.49502426695642, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID_1": 5, "OBJECTID": 15, "OID_": 0, "Name": "Kalidevi Mandir", "Type": "Temple", "Build_Type": null }, "geometry": { "type": "Point", "coordinates": [ 85.142078753331873, 27.487478526912525, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID_1": 8, "OBJECTID": 11, "OID_": 0, "Name": "Rupnarayan Mahadev Mandir", "Type": "Temple", "Build_Type": null }, "geometry": { "type": "Point", "coordinates": [ 85.141388502077746, 27.494000495826299, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID_1": 9, "OBJECTID": 2, "OID_": 0, "Name": "Chakati Bhairab Mandir", "Type": "Temple", "Build_Type": null }, "geometry": { "type": "Point", "coordinates": [ 85.148016758266863, 27.490524804975792, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID_1": 10, "OBJECTID": 10, "OID_": 0, "Name": "Maheswori Devi", "Type": "Temple", "Build_Type": null }, "geometry": { "type": "Point", "coordinates": [ 85.141448765648079, 27.493973015242489, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID_1": 0, "OBJECTID": 3, "OID_": 0, "Name": "TASHI Choylung Gumba", "Type": "Gumba", "Build_Type": null }, "geometry": { "type": "Point", "coordinates": [ 85.142341085572696, 27.487988633168925, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID_1": 0, "OBJECTID": 4, "OID_": 0, "Name": "Gumba_near_bhukampa_pratirodi", "Type": "Gumba", "Build_Type": null }, "geometry": { "type": "Point", "coordinates": [ 85.150014735291848, 27.493498360261185, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID_1": 0, "OBJECTID": 5, "OID_": 0, "Name": "Gumba_8", "Type": "Gumba", "Build_Type": null }, "geometry": { "type": "Point", "coordinates": [ 85.164421890657763, 27.496804632327951, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID_1": 2, "OBJECTID": 30, "OID_": 0, "Name": "Kalidevi Setidevi Mandir", "Type": "Temple", "Build_Type": null }, "geometry": { "type": "Point", "coordinates": [ 85.163068511702534, 27.492655630752836, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID_1": 3, "OBJECTID": 25, "OID_": 0, "Name": "Rikheswhor Mandir", "Type": "Temple", "Build_Type": null }, "geometry": { "type": "Point", "coordinates": [ 85.126786438443446, 27.496856766926328, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID_1": 6, "OBJECTID": 22, "OID_": 0, "Name": "Kali devi Jaleswori Mahadev", "Type": "Temple", "Build_Type": null }, "geometry": { "type": "Point", "coordinates": [ 85.158988080735412, 27.483287580957153, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID_1": 7, "OBJECTID": 13, "OID_": 0, "Name": "Kalabhairab Mandir", "Type": "Temple", "Build_Type": null }, "geometry": { "type": "Point", "coordinates": [ 85.142763936006872, 27.488746713989713, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID_1": 0, "OBJECTID": 1, "OID_": 0, "Name": "Ward No1 Gumba", "Type": "Gumba", "Build_Type": null }, "geometry": { "type": "Point", "coordinates": [ 85.141380066436966, 27.500927895306177, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID_1": 0, "OBJECTID": 2, "OID_": 0, "Name": "Tulku Choyilung Gumb", "Type": "Gumba", "Build_Type": null }, "geometry": { "type": "Point", "coordinates": [ 85.147661528756601, 27.486665706157453, 0.0 ] } }
+]
+}

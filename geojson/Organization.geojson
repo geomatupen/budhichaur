@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "Name": "Budhichaur VDC Office", "Type": "VDC Office", "Govt_Pvt": "Govt" }, "geometry": { "type": "Point", "coordinates": [ 85.141527778284399, 27.494166667158026, 0.0 ] } }
+]
+}

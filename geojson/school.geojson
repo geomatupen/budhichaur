@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "Name": "Rupnarayan Mabi", "Total_Stud": 0, "Male_Stude": 0, "Female_Stu": 0, "Build_Type": null }, "geometry": { "type": "Point", "coordinates": [ 85.141813259974015, 27.494140236083069, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "Name": "Bajrabarahi_Prabi", "Total_Stud": 0, "Male_Stude": 0, "Female_Stu": 0, "Build_Type": null }, "geometry": { "type": "Point", "coordinates": [ 85.157332840738093, 27.486262204637057, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "Name": "Rikheswor Prabi", "Total_Stud": 0, "Male_Stude": 0, "Female_Stu": 0, "Build_Type": null }, "geometry": { "type": "Point", "coordinates": [ 85.125469902014402, 27.496776908027925, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "Name": "Balajagriti Nimabi bidhyalaya_8", "Total_Stud": 0, "Male_Stude": 0, "Female_Stu": 0, "Build_Type": null }, "geometry": { "type": "Point", "coordinates": [ 85.164467810940778, 27.49287674076902, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "Name": "Bageswori Prabi_9", "Total_Stud": 0, "Male_Stude": 0, "Female_Stu": 0, "Build_Type": null }, "geometry": { "type": "Point", "coordinates": [ 85.102327962565482, 27.49520013208047, 0.0 ] } }
+]
+}

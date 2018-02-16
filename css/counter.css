@@ -1,0 +1,86 @@
+.panel-default{
+      margin-top: 0px;
+    }
+    .btn-primary{
+      margin-top: 100px;
+    }
+
+    .probootstrap-section {
+    padding: 1em 0 !important; 
+    position: relative;
+}  
+.probootstrap-counter-wrap .probootstrap-icon i {
+    color: #2057AF !important;
+    background-color: whitesmoke;
+}
+
+
+.dropdown-menu {
+    margin-left: 140px;
+    margin-top: -390px;
+}
+
+#dropdownMenuButton {
+  margin-top: -795px;
+margin-left: 215px;
+}
+#probootstrap-counter {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("../images/peak.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: seashell !important;
+    text-shadow: 2px 2px 5px black;
+    font-size: 16px;
+}
+
+#probootstrap-counter span.js-counter{
+    color: white !important;
+    font-size: 30px;
+}
+.probootstrap-counter-wrap .probootstrap-text .probootstrap-counter {
+    text-align: center;
+    color: #fff !important;
+    
+}
+
+.probootstrap-counter-wrap{
+  margin-top: 30px;
+margin-bottom: 20px;
+margin-left: 40px;
+}
+.js-counter {
+    color: #fff !important;
+    font-size: 16px;
+}
+.probootstrap-counter-iconl {
+    color: whitesmoke !important;
+}
+
+.nav > li > a:focus, .nav > li > a:hover{
+  
+    background-color: #1498e7;
+    border-color: black;
+}
+
+   .probootstrap-counter-wrap .probootstrap-icon i {
+    color: ghostwhite !important; !important;
+       text-shadow: 2px 2px 5px black;
+    background: transparent;
+} 
+
+.list-group-item.active {
+z-index: 0;
+}
+
+.example{
+background-color: #fff;
+}
+.panel-caption{
+  height: 65px;
+  margin: 10px;
+  border:0px;
+  background-color: #fff;
+  width: 100%;
+  padding: 25px;
+}
